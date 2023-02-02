@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "sw_payment_method_id": "3cb8d744de574ffbb90349b8b05d3692",
+        "payment_method_id": "6418",
+        "payment_allow": "1"
+    },
+    {
+        "id": "2",
+        "sw_payment_method_id": "7e09f3f4f69c434cad9fd8b15e15f769",
+        "payment_method_id": "6419",
+        "payment_allow": "1"
+    },
+    {
+        "id": "3",
+        "sw_payment_method_id": "994e4dee8c5c427bb66d45dbf8e7217a",
+        "payment_method_id": "6420",
+        "payment_allow": "1"
+    },
+    {
+        "id": "4",
+        "sw_payment_method_id": "d66b86107736457599d261c46f67e157",
+        "payment_method_id": "6421",
+        "payment_allow": "1"
+    },
+    {
+        "id": "5",
+        "sw_payment_method_id": "eb4c7903443f49d09f4194a0220d129f",
+        "payment_method_id": "4",
+        "payment_allow": "1"
+    },
+    {
+        "id": "6",
+        "sw_payment_method_id": "3894c4c5173145a29c1bef2777e06e57",
+        "payment_method_id": "1",
+        "payment_allow": "1"
+    },
+    {
+        "id": "7",
+        "sw_payment_method_id": "66e35435dee8448c84153301c90ebece",
+        "payment_method_id": "3",
+        "payment_allow": "1"
+    },
+    {
+        "id": "8",
+        "sw_payment_method_id": "f2baf1d38bf94685be5d2dd95287706e",
+        "payment_method_id": "2",
+        "payment_allow": "1"
+    }
+]
