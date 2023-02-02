@@ -1,0 +1,88 @@
+[
+    {
+        "id": "11",
+        "client_id": "SWIAAMY2SKVZMGJ1RDHDA0TQYG",
+        "client_secret": "VFhOTGpDcjFXQlNBSk85Qjg5cUc4QmVITEFWTFlTMFk5Z1NwZkY",
+        "domain": "http://116.203.214.171:8001",
+        "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiJTV0lBQU1ZMlNLVlpNR0oxUkRIREEwVFFZRyIsImp0aSI6IjUwNGE3MzBhZjEwZmNhOTY0OGU3M2EwYjFkODc0ZTFkNmY3ZjM5YjFjZmNlYjk1MDJkZjM2OTViNjdiNDk4YTFlNzc2NTc3MGNmMWI1ODI5IiwiaWF0IjoxNjc1MzQwODkzLjIyNjkyOCwibmJmIjoxNjc1MzQwODkzLjIyNjkzMiwiZXhwIjoxNjc1MzQxNDkzLjIyNjY1OSwic3ViIjoiIiwic2NvcGVzIjpbIndyaXRlIl19.dYHBxgMYyF_J9l56nA5PnAduWPyUHJdm_CUnyPbudHVO08pYgWlPGRtKtNpR3_AI-kg9qC4i0TMdeFWBB-g_UesHTIBScoYzazyQGik-kIAe-7raMzharJKC30ybov4vcOQK8MuymZJqXNbRLXzmt4I5cEfw4pjpawWFxH2sqIOaPvpR4XvudbCbjnrb4zfGmptvvVrFPIlL_6uix5HRA8DjWrgeL0wVOtRzNVwOwveu7VR_OvLNoQgaF8BhdHq6Y7WLt-347-6-axbiNdMyBQbTfAwwL7oAhFKkLR1zqFiZFT5kjV72GY75UpWVgwd4paGemVN5nKTtgHEVWUvSAQ",
+        "expires_in": "1675341493",
+        "cms_ids": {
+            "cms_base_id": "affd927521ba458c92103d7b839341f0",
+            "cms_main_id": "affd927521ba458c92103d7b839341f0"
+        },
+        "sw_version": "/api/",
+        "sw_language_id": "2fbb5fe2e29a4d70aa5854ce7ce3e20b",
+        "plenty_account_id": "1",
+        "cancel_status_block": "0.0000",
+        "cancel_status_fallback": "1.1000",
+        "cancel_status_by_customer": "0.0000",
+        "controls": {
+            "orders": true,
+            "stocks": false,
+            "price": false,
+            "manufacturers": false,
+            "availabilities": false,
+            "attributes": false,
+            "tags": false,
+            "categories": false,
+            "images": false,
+            "units": false,
+            "property": true,
+            "property_dynamic": true,
+            "catalog": true,
+            "import_all_images": false,
+            "import_all_no_active_images": false,
+            "variation_overwrite": false,
+            "variation_copy": false,
+            "order_address": true,
+            "order_cron_filter": false,
+            "order_event_filter": false
+        },
+        "references": {
+            "amazon_key": null
+        },
+        "rules": []
+    },
+    {
+        "id": "12",
+        "client_id": "SWIAAHHNANVZYJVEAE1QQWTWDG",
+        "client_secret": "c1Fubndmc3JXMHNndVBDdDNwbm00RVVtTmlJaVc1SjNheVJwd0o",
+        "domain": "http://116.203.214.171:8002",
+        "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiJTV0lBQUhITkFOVlpZSlZFQUUxUVFXVFdERyIsImp0aSI6IjI5YWEyYjg5MDBjZmY0OWI1MThlMTUzNTdhYmY1MTVmYjlhMGZlYTRmNTBjOTliZmMwOWNlYjYzNTNhN2EwNzMxOWZmZTBhMzgxMTg2OWY0IiwiaWF0IjoxNjY4NDk5MDMwLjEzODczMywibmJmIjoxNjY4NDk5MDMwLjEzODczNiwiZXhwIjoxNjY4NDk5NjMwLjEzODU1OSwic3ViIjoiIiwic2NvcGVzIjpbIndyaXRlIl19.Ib9zME0DYjTKGyaVjA12Np0TdHAnq7xIW-FlgyYVUjojpqVEAl5ld4T-7EMvFHOSKkrndTdcX4K8WZO_nXQizpCb5kvDsx8PzYDu3nYIqO2c89osk_pFoTDtsu7a8ybNWLFr2DRlzomIjzeldgHeLfEfhR0TjStHe9icAKF4MwmdrFFG8NLxPivA7526CSI-D5qUOAL03hQvOl0gz0mJpJ6rBqlUplmFMr_QwEehzKBaorP_GUsjKZkxvtbYn8WtOoiGPAxMCn1dIARFtS9TVoU5CAEqfuDkSxiV5RSoExWkq88E-9kzdctoHrrz_zwNuwgzDEVZ-pPfYShxKeth4g",
+        "expires_in": "1668499630",
+        "cms_ids": {
+            "cms_base_id": null,
+            "cms_main_id": null
+        },
+        "sw_version": "/api/",
+        "sw_language_id": "2fbb5fe2e29a4d70aa5854ce7ce3e20b",
+        "plenty_account_id": "1",
+        "cancel_status_block": "0.0000",
+        "cancel_status_fallback": "0.0000",
+        "cancel_status_by_customer": "0.0000",
+        "controls": {
+            "orders": false,
+            "stocks": false,
+            "price": false,
+            "manufacturers": true,
+            "availabilities": true,
+            "attributes": true,
+            "tags": true,
+            "categories": true,
+            "images": true,
+            "units": true,
+            "property": true,
+            "catalog": true,
+            "import_all_images": false,
+            "import_all_no_active_images": false,
+            "variation_overwrite": false,
+            "variation_copy": false,
+            "order_cron_filter": false,
+            "order_event_filter": false
+        },
+        "references": {
+            "amazon_key": null
+        },
+        "rules": []
+    }
+]
