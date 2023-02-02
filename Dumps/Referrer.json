@@ -1,0 +1,23 @@
+[
+    {
+        "id": "6",
+        "plenty_id": "39619",
+        "referrer_id": "57",
+        "configuration_id": "11",
+        "salesChannel_id": "ec9a76492fd94717910e6bf4ec4788ca"
+    },
+    {
+        "id": "7",
+        "plenty_id": "39619",
+        "referrer_id": "57",
+        "configuration_id": "12",
+        "salesChannel_id": "ec9a76492fd94717910e6bf4ec4788ca"
+    },
+    {
+        "id": "8",
+        "plenty_id": "39619",
+        "referrer_id": "60",
+        "configuration_id": "11",
+        "salesChannel_id": "98432def39fc4624b33213a56b8c944d"
+    }
+]
